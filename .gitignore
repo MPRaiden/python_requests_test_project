@@ -126,3 +126,8 @@ dmypy.json
 
 # PyCharm
 .idea/
+
+#presentation
+python-requests-workshow.odp
+python-requests-workshow.pdf
+python-requests-workshow.pptx
