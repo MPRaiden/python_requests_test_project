@@ -38,7 +38,8 @@ def test_values_for_place_name_corresponds_to_test_object(country_code, zip_code
 # Exercise 2.4
 # Create a method read_data_from_csv() that reads the file from 2.3 line by line
 # and creates and returns a test data object from the data in the .csv file
-#def read_data_from_csv():
+
+
     
 
 # Exercise 2.5
